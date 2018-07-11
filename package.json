@@ -1,0 +1,28 @@
+{
+  "name": "stream-enumerate",
+  "version": "0.0.0",
+  "description": "Add a number ID to the chunks in a stream",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^23.4.0"
+  },
+  "scripts": {
+    "test": "jest --notify --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/piranna/stream-enumerate.git"
+  },
+  "keywords": [
+    "enumerate",
+    "transform",
+    "stream",
+    "streams",
+    "start",
+    "end"
+  ],
+  "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/piranna/stream-enumerate#readme"
+}
