@@ -1,4 +1,4 @@
-const enumerate = require('..')
+const {enumerate} = require('..')
 
 
 test('basic', function(done)
