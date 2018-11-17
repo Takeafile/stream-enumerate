@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/Takeafile/stream-enumerate.svg?branch=master)](https://travis-ci.org/Takeafile/stream-enumerate)
 [![Coverage Status](https://coveralls.io/repos/github/Takeafile/stream-enumerate/badge.svg?branch=master)](https://coveralls.io/github/Takeafile/stream-enumerate?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Takeafile/stream-enumerate.svg)](https://greenkeeper.io/)
 
 # stream-enumerate
 
