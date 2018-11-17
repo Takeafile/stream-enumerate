@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/piranna/stream-enumerate.git"
+    "url": "git+ssh://git@github.com/Takeafile/stream-enumerate.git"
   },
   "keywords": [
     "enumerate",
@@ -23,5 +23,5 @@
   ],
   "author": "Jesús Leganés-Combarro 'piranna' <piranna@gmail.com>",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/piranna/stream-enumerate#readme"
+  "homepage": "https://github.com/Takeafile/stream-enumerate#readme"
 }
