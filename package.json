@@ -4,6 +4,7 @@
   "description": "Add a number ID to the chunks in a stream",
   "main": "lib",
   "devDependencies": {
+    "coveralls": "^3.0.2",
     "jest": "^23.6.0"
   },
   "scripts": {
