@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "description": "Add a number ID to the chunks in a stream",
   "main": "lib",
-  "dependencies": {},
   "devDependencies": {
-    "jest": "^23.4.1"
+    "jest": "^23.6.0"
   },
   "scripts": {
     "test": "jest --notify --coverage"
